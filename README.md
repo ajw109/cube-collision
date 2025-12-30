@@ -6,7 +6,6 @@ A small Pygame project where you can move two cubes around and see them collide.
 
 - Use **W, A, S, D** to move the orange cube.  
 - Use the **arrow keys** to move the red cube.  
-- Watch what happens when they bump into each other!
 
 ## Requirements
 
